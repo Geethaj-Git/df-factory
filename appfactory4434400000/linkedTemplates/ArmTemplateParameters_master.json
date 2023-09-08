@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "appfactory4434400000"
 		},
+		"datalake23232323_linkedservice_accountKey": {
+			"value": ""
+		},
+		"datalake23232323_linkedservice_properties_typeProperties_url": {
+			"value": "https://datalake23232323.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
