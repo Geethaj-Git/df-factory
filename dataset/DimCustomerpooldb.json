@@ -1,0 +1,16 @@
+{
+	"name": "DimCustomerpooldb",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "dataworkspace2000939000_pooldb_service",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlDWTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "DimCustomer"
+		}
+	}
+}
