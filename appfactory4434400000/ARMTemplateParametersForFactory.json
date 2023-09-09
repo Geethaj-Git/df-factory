@@ -8,6 +8,9 @@
 		"datalake23232323_linkedservice_accountKey": {
 			"value": ""
 		},
+		"dataworkspace2000939000_pooldb_service_connectionString": {
+			"value": ""
+		},
 		"datalake23232323_linkedservice_properties_typeProperties_url": {
 			"value": "https://datalake23232323.dfs.core.windows.net/"
 		}
